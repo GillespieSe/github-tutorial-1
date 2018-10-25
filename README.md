@@ -94,7 +94,7 @@ made previously.
 `git reset HEAD~1`: Undo the previous commit, but **Remove** the files from the staging area while keeping 
 the changes made previously.
 
-`git reset --hard HEAD~1`: Undo the previous commit, but **Removes** both the file from the staging are and 
+`git reset --hard HEAD~1`: Undo the previous commit, but **Removes** both the file from the staging area and 
 the changes made.
 
 `git reset --hard SHA`: Undo to previous commit with the SHA from the beginning, all changes made after the
